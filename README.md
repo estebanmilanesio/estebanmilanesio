@@ -5,9 +5,9 @@
 -->
 
 - 🔭 Actualmente estoy trabajando como administrador Jira 
-- 🌱 También realizando el curso de Full Stack Developer en Digital Houes
-- ⚡ Estoy finalizando mi tesis de Ingeniería Civil
-- 👯 Soy productor musical de hobby 
+- 🌱 También realizando el curso de Full Stack Developer en Digital House
+- ⚡ Y finalizando mi tesis de Ingeniería Civil
+- 👯 Como hobby soy productor musical
 - 📫 Puedes encontrarme en: esmilanesio@gmail.com
 
 
